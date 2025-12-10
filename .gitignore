@@ -1,0 +1,5 @@
+# Файлы в папке data
+data/winequality-red.zip
+
+# Но сама папка data не игнорируется
+!data/
